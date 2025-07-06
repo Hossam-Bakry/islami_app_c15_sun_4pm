@@ -5,7 +5,8 @@ import 'package:islami_app_c15_sun_4pm/core/constants/colors.dart';
 import 'package:islami_app_c15_sun_4pm/models/sura_data_model.dart';
 
 /// files status
-
+//1- commit
+//2- push
 class QuranDetailsView extends StatefulWidget {
   static const String routeName = 'quran_details_view';
 
